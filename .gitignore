@@ -2,3 +2,4 @@ env
 *.DS_Store
 *.joblib
 *.csv
+requirements-dev.txt
